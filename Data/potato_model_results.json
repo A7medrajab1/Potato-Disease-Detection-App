@@ -1,0 +1,22 @@
+{
+    "model": "Potato Disease Classification",
+    "categories": [
+        "Potato___Early_blight",
+        "Potato___Late_blight",
+        "Potato___healthy"
+    ],
+    "test_accuracy": 0.9837586879730225,
+    "test_loss": 0.8726720213890076,
+    "per_class_accuracy": {
+        "Early Blight": 0.99,
+        "Late Blight": 0.975,
+        "Healthy": 1.0
+    },
+    "f1_scores": {
+        "Early Blight": 0.9826302729528535,
+        "Late Blight": 0.982367758186398,
+        "Healthy": 1.0
+    },
+    "total_samples": 431,
+    "correct_predictions": 424
+}
